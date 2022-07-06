@@ -25,6 +25,6 @@ int main()
     for (auto i = g2.begin(); i != g2.end(); i++)
         cout << *i << " ";
 
-    cout << "Git Hub rocks!!!" << endl;
+    cout << "Git Hub rocks!!! ok this works" << endl;
         
 }
