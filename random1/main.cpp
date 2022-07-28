@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
-    //Just random startup
+    //Just random startup............%
     {
         std::cout << "Just keep Going, ";
         easy();
